@@ -1,0 +1,9 @@
+.idea
+__pycache__
+.env
+mods
+/lib
+/lib64
+/include
+/bin
+pyvenv.cfg
